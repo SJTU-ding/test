@@ -1,3 +1,0 @@
-docker ps -a 查看docker状态
-docker start 79
-docker start 5a

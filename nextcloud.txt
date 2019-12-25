@@ -1,0 +1,6 @@
+/* 查看docker状态 */
+docker ps -a
+/* 分别启动docker mysql和nextcloud */
+docker start 79
+docker start 5a
+
